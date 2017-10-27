@@ -1,1 +1,34 @@
 this is my first testgit document
+we will slowly update all documents of git here .
+today i learned installing git and creating git account
+creatng local git folder
+opening git bash
+moving to git folder
+ cing list of files in it by ls command
+then for configuring github entering user name and email
+git configure --global user.name "name"
+git configure --global user.email "email"
+
+then cloning git -- copying to local folder
+git clone url( url from git hub clone)
+readme.md file is created at local folder
+
+create a text file here in this folder and upload to git hub
+first create text file and save
+then ls to c the file thru cmd prompt 
+add it  git add file name
+commit it git  commit -m "commit mesg" filename
+push it git push -u origin master
+
+once refresh git hub
+u can c this file der in github
+if we made any changes for text file in local folder
+we should save changes
+
+add it
+check its status
+coomit it
+push it
+
+
+
